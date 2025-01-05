@@ -24,6 +24,7 @@
     color: aliceblue;
     background-color: #25252a;
     font-size: 5vh;
+    border-radius: 50px;
 }
 
 #searchButton {
@@ -35,7 +36,8 @@
     height: 10vh;
     border: 0;
     outline: 0;
-    color: #141414;
-    background-color: aliceblue;
+    color: #ffffff;
+    background-color: #141414;
     font-size: 5vh;
+    border-radius: 50px;
 }
